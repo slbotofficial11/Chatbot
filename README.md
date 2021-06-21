@@ -1,5 +1,5 @@
 # IMPORTANT
-Since the API has been [discontinued](https://t.me/Intellivoid/559), this will no longer work. 
+Since the API has been [SLBOTs](https://t.me/slhitbotofficial), this will no longer work. 
 
 # About
 A fun telegram userbot written in python3 using [EzilaAnki](https://github.com/TeamEzila-Ankivector)'s Coffeehouse API.
