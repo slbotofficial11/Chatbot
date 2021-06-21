@@ -3,7 +3,7 @@ Since the API has been [SLBOTs](https://t.me/slhitbotofficial), this will no lon
 
 # About
 A fun telegram userbot written in python3 using [EzilaAnki](https://github.com/TeamEzila-Ankivector)'s Coffeehouse API.
-Written by [this person](https://t.me/TheRealPhoenix)!
+Written by [🇱🇰SL BOTs](https://t.me/slhitbotofficial)!
 ## Installation
 Open up your terminal and run these commands.
 
