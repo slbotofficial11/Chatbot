@@ -13,7 +13,7 @@ async def start_bot() -> None:
     LOGGER.info(
         "Simple chatbot written using the pyrogram library.\n "
         "Uses Intellivoid's Coffeehouse API.\n"
-        "Written by @TheRealPhoenix on Telegram."
+        "Written by @darkridersslk on Telegram."
     )
     LOGGER.info("Your bot is now online. Check .help for help!")
     await idle()
