@@ -2,7 +2,7 @@
 Since the API has been [discontinued](https://t.me/Intellivoid/559), this will no longer work. 
 
 # About
-A fun telegram userbot written in python3 using [Intellivoid](https://github.com/intellivoid)'s Coffeehouse API.
+A fun telegram userbot written in python3 using [EzilaAnki](https://github.com/TeamEzila-Ankivector)'s Coffeehouse API.
 Written by [this person](https://t.me/TheRealPhoenix)!
 ## Installation
 Open up your terminal and run these commands.
@@ -52,6 +52,6 @@ After setting the required environment variables/editing the ```config.ini``` fi
 Congrats, your bot should now be up!
 
 ## Credits
-• [Intellivoid](https://github.com/intellivoid) for providing the API used for this project.
+• [EzilaAnki](https://github.com/TeamEzila-Ankivector) for providing the API used for this project.
 
-• [pyrogram](https://github.com/pyrogram) - the library used for this project.
+• [SLBOTs](https://github.com/slbotofficial11) - the library used for this project.
